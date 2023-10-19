@@ -15,6 +15,7 @@ public class Proyecto02 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Ejemplo dos básico de Java\n Versionado a través de Git Manejado desde GitHub Además se usar GitHubClassroom");
     }
     
 }
